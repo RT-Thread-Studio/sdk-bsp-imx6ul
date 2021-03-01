@@ -59,7 +59,6 @@ template_projects:
     - README.md
     - rtconfig.h
     - rtconfig.py
-    - rtconfig.pyc
     - SConscript
     - SConstruct
     source_path_offset: project_0
@@ -82,6 +81,6 @@ template_projects:
     source_path_offset: rt-thread
     target_path_offset: rt-thread
   project_description: ''
-  project_name: i.MX6 SoloX
+  project_name: iMX6-SoloX
   project_type: rt-thread|@full|@latest
 yaml_version: 3
